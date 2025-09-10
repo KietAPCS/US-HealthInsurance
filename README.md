@@ -1,4 +1,4 @@
-# US-HealthInsurance
+# US-Healt hInsurance with ANOVA Design
 
 ## Health Insurance Charges — Regression & ANOVA Study
 
